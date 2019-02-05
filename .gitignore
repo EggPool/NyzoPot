@@ -1,3 +1,9 @@
+pynyzo
+.idea
+data
+*.nyzoblock
+*.db
+tmp
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
